@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Paulo-AS/chatbottelegram#readme",
   "dependencies": {
+    "dialogflow": "^1.2.0",
     "node-telegram-bot-api": "^0.51.0"
   }
 }
